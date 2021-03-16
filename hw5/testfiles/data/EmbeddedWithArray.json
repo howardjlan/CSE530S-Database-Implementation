@@ -1,0 +1,9 @@
+{ name: "cake", recipe: { ingredients: [ "eggs", "flour", "vanilla" ], servings: [5, 10], time: 60 } }
+	
+{ name: "cookie", recipe: { ingredients: [ "walnut", "eggs", "flour" ], servings: [20, 30], time: 50 } }
+	
+{ name: "pie", recipe: { ingredients: [ "walnut", "eggs", "flour" ], servings: [4], time: 60 } }
+	
+{ name: "ice cream", recipe: { ingredients: [ "milk", "chocolate chip" ], servings: [6], time: 240 } }
+	
+{ name: "muffin", recipe: { ingredients: [ "eggs", "flour" ], servings: [40, 50], time: 50 } }

@@ -1,0 +1,9 @@
+{ item: "Godiva", instock: [ { warehouse: "A", qty: 10 } ] }
+	
+{ item: "Guylian", instock: [ { warehouse: "C", qty: 5 } ] }
+	
+{ item: "Hershey", instock: [ { warehouse: "B", qty: 50 }, { warehouse: "C", qty: 40 } ] }
+	
+{ item: "Ghirardelli", instock: [ { warehouse: "A", qty: 30 }, { warehouse: "B", qty: 5 } ] }
+	
+{ item: "Toblerone", instock: [ { warehouse: "A", qty: 25 }, { warehouse: "C", qty: 45 } ] }

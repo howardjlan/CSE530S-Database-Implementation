@@ -1,0 +1,9 @@
+{ name: "cake", recipe: [ qty: [ 1, 5, 7 ], flavors: [ "chocolate" ], time: 60 ] }
+	
+{ name: "cookie", recipe: [ qty: [ 7, 9, 10 ], flavors: [ "chocolate chip", "raisin" ], time: 50 ] }
+	
+{ name: "pie", recipe: [ qty: [ 1, 2, 4 ], flavors: [ "lemon meringue" ], time: 60 ] }
+	
+{ name: "ice cream", recipe: [ qty: [ 3, 5 ], flavors: [ "chocolate chip", "pistachio" ], time: 240 ] }
+	
+{ name: "muffin", recipe: [ qty: [ 7, 11 ], flavors: [ "chocolate chip", "blueberry" ], time: 50 ] }
